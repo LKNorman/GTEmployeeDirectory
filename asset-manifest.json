@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GTEmployeeDirectory/static/css/main.6a934dfc.chunk.css",
+    "main.js": "/GTEmployeeDirectory/static/js/main.f463d95b.chunk.js",
+    "main.js.map": "/GTEmployeeDirectory/static/js/main.f463d95b.chunk.js.map",
+    "runtime-main.js": "/GTEmployeeDirectory/static/js/runtime-main.7f9b0fe9.js",
+    "runtime-main.js.map": "/GTEmployeeDirectory/static/js/runtime-main.7f9b0fe9.js.map",
+    "static/js/2.539e4013.chunk.js": "/GTEmployeeDirectory/static/js/2.539e4013.chunk.js",
+    "static/js/2.539e4013.chunk.js.map": "/GTEmployeeDirectory/static/js/2.539e4013.chunk.js.map",
+    "index.html": "/GTEmployeeDirectory/index.html",
+    "precache-manifest.066f1930af9cb0315254a1591a526017.js": "/GTEmployeeDirectory/precache-manifest.066f1930af9cb0315254a1591a526017.js",
+    "service-worker.js": "/GTEmployeeDirectory/service-worker.js",
+    "static/css/main.6a934dfc.chunk.css.map": "/GTEmployeeDirectory/static/css/main.6a934dfc.chunk.css.map",
+    "static/js/2.539e4013.chunk.js.LICENSE.txt": "/GTEmployeeDirectory/static/js/2.539e4013.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/GTEmployeeDirectory/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f9b0fe9.js",
+    "static/js/2.539e4013.chunk.js",
+    "static/css/main.6a934dfc.chunk.css",
+    "static/js/main.f463d95b.chunk.js"
+  ]
+}
